@@ -1,0 +1,35 @@
+*{
+    margin: 10px;
+    padding: 0;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    display: flex;
+    background-image: url(https://i.pinimg.com/originals/6d/c1/17/6dc11726798611a9e2fa758a02188bf9.gif);
+    flex-direction: column;
+    font-size:x-large;
+}
+button{
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+}
+input{
+    border-radius: 10px;
+    width: 200px;
+    height: 25px;
+}
+.box{
+    background-color: gold;
+    display: flex;
+    width: 60%;
+}
+.box2{
+    background-color: black;
+    width: 100%;
+    color: white;
+}
